@@ -1,3 +1,12 @@
+# Blocked tlds & path
 .*\.ml(\/.*|)
 .*\.tk(\/.*|)
-ovh.to/.+
+.*\.gallery(\/.*|)
+.*\.gq(\/.*|)
+.*\.ml(\/.*|)
+.*\.photos(\/.*|)
+.*\.tk(\/.*|)
+.*\.website(\/.*|)
+# Blocked tlds with path after domain
+.*\.in/.+
+.*\.to/.+
