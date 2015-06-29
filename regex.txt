@@ -6,5 +6,5 @@
 .*\.tk(\/.*|)
 .*\.website(\/.*|)
 # Blocked tlds with path after domain
-.*\.in/.+
-.*\.to/.+
+.*\.in\/.+
+.*\.to\/.+
