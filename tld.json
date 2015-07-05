@@ -1,0 +1,44 @@
+{
+    "untrusted": {
+        "GALLERY": [
+            "domain",
+            "path"
+        ],
+        "GQ": [
+            "path",
+            "domain"
+        ],
+        "IN": [
+            "path"
+        ],
+        "KZ": [
+            "domain",
+            "path"
+        ],
+        "LINK": [
+            "path"
+        ],
+        "ML": [
+            "path",
+            "domain"
+        ],
+        "PHOTOS": [
+            "domain",
+            "path"
+        ],
+        "PW": [
+            "path"
+        ],
+        "TK": [
+            "domain",
+            "path"
+        ],
+        "TO": [
+            "path"
+        ],
+        "WEBSITE": [
+            "path",
+            "domain"
+        ]
+    }
+}
