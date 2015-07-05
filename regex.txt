@@ -1,10 +1,13 @@
 # Blocked tlds & path
 .*\.gallery(\/.*|)
 .*\.gq(\/.*|)
+.*\.kz(\/.*|)
 .*\.ml(\/.*|)
 .*\.photos(\/.*|)
 .*\.tk(\/.*|)
 .*\.website(\/.*|)
 # Blocked tlds with path after domain
 .*\.in\/.*
+.*\.link\/.*
+.*\.pw\/.*
 .*\.to\/.*
