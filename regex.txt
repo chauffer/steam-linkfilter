@@ -1,7 +1,6 @@
 # Blocked tlds & path
 .*\.gallery(\/.*|)
 .*\.gq(\/.*|)
-.*\.kz(\/.*|)
 .*\.ml(\/.*|)
 .*\.photos(\/.*|)
 .*\.tk(\/.*|)
