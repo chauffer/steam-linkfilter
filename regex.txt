@@ -10,3 +10,5 @@
 .*\.link\/.*
 .*\.pw\/.*
 .*\.to\/.*
+# Misc blocked regex
+.*-img\.com(\/.*|)
