@@ -1,8 +1,11 @@
 {
     "untrusted": {
-        "GALLERY": [
-            "domain",
+        "CF": [
             "path"
+        ],
+        "GALLERY": [
+            "path",
+            "domain"
         ],
         "GQ": [
             "path",
@@ -15,8 +18,8 @@
             "path"
         ],
         "ML": [
-            "path",
-            "domain"
+            "domain",
+            "path"
         ],
         "PHOTOS": [
             "domain",
@@ -29,12 +32,15 @@
             "domain",
             "path"
         ],
+        "TN": [
+            "path"
+        ],
         "TO": [
             "path"
         ],
         "WEBSITE": [
-            "path",
-            "domain"
+            "domain",
+            "path"
         ]
     }
 }
