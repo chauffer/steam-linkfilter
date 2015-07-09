@@ -1,11 +1,11 @@
 # This list may be outdated. Look at tld.json for up-to-date info.
 # Blocked tlds & path
-.*\.gallery(\/.*|)
-.*\.gq(\/.*|)
-.*\.ml(\/.*|)
-.*\.photos(\/.*|)
-.*\.tk(\/.*|)
-.*\.website(\/.*|)
+.*\.gallery(\/.*)?
+.*\.gq(\/.*)?
+.*\.ml(\/.*)?
+.*\.photos(\/.*)?
+.*\.tk(\/.*)?
+.*\.website(\/.*)?
 # Blocked tlds with path after domain
 .*\.cf\/.*
 .*\.in\/.*
@@ -14,4 +14,4 @@
 .*\.tn\/.*
 .*\.to\/.*
 # Misc blocked regex
-.*-img\.com(\/.*|)
+.*-img\.com(\/.*)?
