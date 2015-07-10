@@ -1,50 +1,54 @@
 {
     "untrusted": {
-        "BIZ": [
+        "biz": [
             "path"
         ],
-        "CF": [
+        "cf": [
             "path"
         ],
-        "GALLERY": [
+        "gallery": [
             "domain",
             "path"
         ],
-        "GQ": [
+        "gq": [
             "domain",
             "path"
         ],
-        "IN": [
+        "in": [
             "path"
         ],
-        "LINK": [
+        "link": [
             "path"
         ],
-        "ML": [
+        "ml": [
             "domain",
             "path"
         ],
-        "PHOTOS": [
+        "photos": [
             "domain",
             "path"
         ],
-        "PRO": [
+        "pro": [
             "path"
         ],
-        "PW": [
-            "path"
-        ],
-        "TK": [
+        "prof": [
             "domain",
             "path"
         ],
-        "TN": [
+        "pw": [
             "path"
         ],
-        "TO": [
+        "tk": [
+            "domain",
             "path"
         ],
-        "WEBSITE": [
+        "tn": [
+            "path"
+        ],
+        "to": [
+            "path"
+        ],
+        "website": [
             "domain",
             "path"
         ]
