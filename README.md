@@ -1,4 +1,4 @@
-# steam-blocked-links
+# steam-linkfilter
 {LINK REMOVED}
 
 This repository is automatically updated.
