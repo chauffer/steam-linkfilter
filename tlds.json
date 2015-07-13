@@ -1,8 +1,5 @@
 {
     "untrusted": {
-        "biz": [
-            "path"
-        ],
         "cf": [
             "path"
         ],
@@ -12,9 +9,6 @@
         ],
         "gq": [
             "domain",
-            "path"
-        ],
-        "in": [
             "path"
         ],
         "link": [
@@ -32,9 +26,6 @@
             "path"
         ],
         "pro": [
-            "path"
-        ],
-        "pw": [
             "path"
         ],
         "tk": [
