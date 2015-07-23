@@ -1,10 +1,9 @@
 # Blocked tlds with path after domain
 .*\.cf\/.*
+.*\.gy\/.*
 .*\.link\/.*
 .*\.ovh\/.*
-.*\.pro\/.*
-.*\.tn\/.*
-.*\.to\/.*
+.*\.uz\/.*
 # Blocked tlds & path
 .*\.gallery(\/.*)?
 .*\.gq(\/.*)?

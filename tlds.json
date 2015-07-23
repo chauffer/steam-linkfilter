@@ -11,6 +11,9 @@
             "domain",
             "path"
         ],
+        "gy": [
+            "path"
+        ],
         "link": [
             "path"
         ],
@@ -25,17 +28,11 @@
             "domain",
             "path"
         ],
-        "pro": [
-            "path"
-        ],
         "tk": [
             "domain",
             "path"
         ],
-        "tn": [
-            "path"
-        ],
-        "to": [
+        "uz": [
             "path"
         ],
         "website": [
