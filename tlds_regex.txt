@@ -3,9 +3,11 @@
 .*\.gq\/.*
 .*\.gy\/.*
 .*\.link\/.*
+.*\.ovh\/.*
 .*\.uz\/.*
 # Blocked tlds & path
 .*\.gallery(\/.*)?
 .*\.ml(\/.*)?
+.*\.photos(\/.*)?
 .*\.tk(\/.*)?
 .*\.website(\/.*)?
