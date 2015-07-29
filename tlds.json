@@ -3,6 +3,9 @@
         "cf": [
             "path"
         ],
+        "club": [
+            "path"
+        ],
         "gallery": [
             "domain",
             "path"
@@ -32,6 +35,9 @@
             "path"
         ],
         "uz": [
+            "path"
+        ],
+        "webcam": [
             "path"
         ],
         "website": [
