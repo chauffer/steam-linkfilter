@@ -10,6 +10,5 @@
 # Blocked tlds & path
 .*\.gallery(\/.*)?
 .*\.photos(\/.*)?
-.*\.properties(\/.*)?
 .*\.tk(\/.*)?
 .*\.website(\/.*)?
