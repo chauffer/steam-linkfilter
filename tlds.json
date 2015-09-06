@@ -26,6 +26,10 @@
             "domain",
             "path"
         ],
+        "properties": [
+            "domain",
+            "path"
+        ],
         "tk": [
             "domain",
             "path"
