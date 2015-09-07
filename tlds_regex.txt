@@ -1,4 +1,5 @@
 # Blocked tlds with path after domain
+.*\.cf\/.*
 .*\.club\/.*
 .*\.gq\/.*
 .*\.gy\/.*
