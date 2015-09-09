@@ -33,8 +33,12 @@
         "uz": [
             "path"
         ],
+        "webcam": [
+            "path"
+        ],
         "website": [
-            "domain"
+            "domain",
+            "path"
         ]
     }
 }
