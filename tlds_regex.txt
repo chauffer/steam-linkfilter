@@ -5,10 +5,6 @@
 .*\.gy\/.*
 .*\.ml\/.*
 .*\.ovh\/.*
-.*\.uz\/.*
-.*\.webcam\/.*
 # Blocked tlds & path
 .*\.gallery(\/.*)?
 .*\.photos(\/.*)?
-.*\.tk(\/.*)?
-.*\.website(\/.*)?
