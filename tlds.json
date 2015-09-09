@@ -1,28 +1,23 @@
 {
     "untrusted": {
-        "cf": [
-            "path"
-        ],
-        "club": [
-            "path"
-        ],
-        "gallery": [
-            "domain",
-            "path"
-        ],
-        "gq": [
-            "path"
-        ],
         "gy": [
             "path"
         ],
-        "ml": [
-            "path"
-        ],
-        "ovh": [
-            "path"
-        ],
         "photos": [
+            "domain",
+            "path"
+        ],
+        "tk": [
+            "domain",
+            "path"
+        ],
+        "uz": [
+            "path"
+        ],
+        "webcam": [
+            "path"
+        ],
+        "website": [
             "domain",
             "path"
         ]
