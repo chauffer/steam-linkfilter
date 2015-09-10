@@ -1,11 +1,5 @@
 {
     "untrusted": {
-        "cf": [
-            "path"
-        ],
-        "club": [
-            "path"
-        ],
         "gallery": [
             "domain",
             "path"
@@ -14,9 +8,6 @@
             "path"
         ],
         "gy": [
-            "path"
-        ],
-        "ml": [
             "path"
         ],
         "ovh": [
