@@ -1,7 +1,19 @@
 {
     "untrusted": {
+        "cf": [
+            "path"
+        ],
+        "club": [
+            "path"
+        ],
         "gallery": [
             "domain",
+            "path"
+        ],
+        "gq": [
+            "path"
+        ],
+        "gy": [
             "path"
         ],
         "ml": [
