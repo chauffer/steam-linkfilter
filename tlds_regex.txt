@@ -3,6 +3,8 @@
 .*\.club\/.*
 .*\.gq\/.*
 .*\.gy\/.*
+.*\.ml\/.*
+.*\.ovh\/.*
 .*\.uz\/.*
 .*\.webcam\/.*
 # Blocked tlds & path
