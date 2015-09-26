@@ -3,9 +3,7 @@
 .*\.club\/.*
 .*\.gq\/.*
 .*\.gy\/.*
-.*\.ml\/.*
 .*\.ovh\/.*
-.*\.webcam\/.*
 # Blocked tlds & path
 .*\.gallery(\/.*)?
 .*\.photos(\/.*)?

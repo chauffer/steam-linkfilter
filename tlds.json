@@ -16,9 +16,6 @@
         "gy": [
             "path"
         ],
-        "ml": [
-            "path"
-        ],
         "ovh": [
             "path"
         ],
@@ -28,9 +25,6 @@
         ],
         "tk": [
             "domain",
-            "path"
-        ],
-        "webcam": [
             "path"
         ],
         "website": [
