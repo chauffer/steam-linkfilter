@@ -10,10 +10,23 @@
             "domain",
             "path"
         ],
+        "gq": [
+            "path"
+        ],
+        "gy": [
+            "path"
+        ],
+        "ml": [
+            "path"
+        ],
         "ovh": [
             "path"
         ],
         "photos": [
+            "domain",
+            "path"
+        ],
+        "tk": [
             "domain",
             "path"
         ],
