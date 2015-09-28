@@ -1,5 +1,8 @@
 {
     "untrusted": {
+        "cf": [
+            "path"
+        ],
         "club": [
             "path"
         ],
