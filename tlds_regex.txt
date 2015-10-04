@@ -3,3 +3,7 @@
 .*\.photos(\/.*)?
 .*\.tk(\/.*)?
 .*\.website(\/.*)?
+# Blocked tlds with path after domain
+.*\.gq\/.*
+.*\.ml\/.*
+.*\.ovh\/.*
