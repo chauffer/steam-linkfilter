@@ -3,10 +3,6 @@
         "cf": [
             "path"
         ],
-        "gallery": [
-            "domain",
-            "path"
-        ],
         "gq": [
             "path"
         ],
@@ -18,13 +14,6 @@
         ],
         "photos": [
             "domain",
-            "path"
-        ],
-        "tk": [
-            "domain",
-            "path"
-        ],
-        "uz": [
             "path"
         ],
         "webcam": [
