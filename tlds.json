@@ -1,5 +1,8 @@
 {
     "untrusted": {
+        "cf": [
+            "path"
+        ],
         "gallery": [
             "domain",
             "path"
@@ -11,9 +14,6 @@
             "path"
         ],
         "ml": [
-            "path"
-        ],
-        "ovh": [
             "path"
         ],
         "photos": [
