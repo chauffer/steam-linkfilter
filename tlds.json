@@ -1,15 +1,5 @@
 {
     "untrusted": {
-        "gallery": [
-            "domain",
-            "path"
-        ],
-        "gq": [
-            "path"
-        ],
-        "gy": [
-            "path"
-        ],
         "ml": [
             "path"
         ],
@@ -22,12 +12,6 @@
         ],
         "tk": [
             "domain",
-            "path"
-        ],
-        "uz": [
-            "path"
-        ],
-        "webcam": [
             "path"
         ],
         "website": [
