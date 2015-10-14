@@ -2,8 +2,9 @@
 .*\.cf\/.*
 .*\.gq\/.*
 .*\.gy\/.*
+.*\.ml\/.*
 .*\.ovh\/.*
-.*\.webcam\/.*
+.*\.uz\/.*
 # Blocked tlds & path
 .*\.gallery(\/.*)?
 .*\.photos(\/.*)?
