@@ -1,9 +1,17 @@
 {
     "untrusted": {
-        "cf": [
+        "gallery": [
+            "domain",
             "path"
         ],
         "ml": [
+            "path"
+        ],
+        "ovh": [
+            "path"
+        ],
+        "photos": [
+            "domain",
             "path"
         ],
         "tk": [
@@ -11,6 +19,9 @@
             "path"
         ],
         "uz": [
+            "path"
+        ],
+        "webcam": [
             "path"
         ],
         "website": [
