@@ -1,28 +1,10 @@
 {
     "untrusted": {
-        "gallery": [
-            "domain",
-            "path"
-        ],
-        "gy": [
-            "path"
-        ],
-        "ml": [
-            "path"
-        ],
-        "photos": [
-            "domain",
-            "path"
-        ],
         "tk": [
             "domain",
             "path"
         ],
-        "uz": [
-            "path"
-        ],
-        "website": [
-            "domain",
+        "webcam": [
             "path"
         ]
     }

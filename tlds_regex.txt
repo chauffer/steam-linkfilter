@@ -1,9 +1,4 @@
 # Blocked tlds & path
-.*\.gallery(\/.*)?
-.*\.photos(\/.*)?
 .*\.tk(\/.*)?
-.*\.website(\/.*)?
 # Blocked tlds with path after domain
-.*\.gy\/.*
-.*\.ml\/.*
-.*\.uz\/.*
+.*\.webcam\/.*
