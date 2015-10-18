@@ -1,8 +1,5 @@
 {
     "untrusted": {
-        "cf": [
-            "path"
-        ],
         "gallery": [
             "domain",
             "path"
@@ -24,10 +21,6 @@
             "path"
         ],
         "tk": [
-            "domain",
-            "path"
-        ],
-        "uz": [
             "path"
         ],
         "webcam": [
