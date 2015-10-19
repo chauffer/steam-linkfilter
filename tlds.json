@@ -1,6 +1,23 @@
 {
     "untrusted": {
+        "ovh": [
+            "path"
+        ],
         "photos": [
+            "domain",
+            "path"
+        ],
+        "tk": [
+            "domain",
+            "path"
+        ],
+        "uz": [
+            "path"
+        ],
+        "webcam": [
+            "path"
+        ],
+        "website": [
             "domain",
             "path"
         ]
