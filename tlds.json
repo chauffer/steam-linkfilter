@@ -1,10 +1,16 @@
 {
     "untrusted": {
-        "ovh": [
+        "gallery": [
+            "domain",
             "path"
         ],
-        "photos": [
-            "domain",
+        "gq": [
+            "path"
+        ],
+        "gy": [
+            "path"
+        ],
+        "ml": [
             "path"
         ],
         "tk": [
