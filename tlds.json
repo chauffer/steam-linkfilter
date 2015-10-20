@@ -1,22 +1,6 @@
 {
     "untrusted": {
-        "cf": [
-            "path"
-        ],
         "gallery": [
-            "domain",
-            "path"
-        ],
-        "gq": [
-            "path"
-        ],
-        "gy": [
-            "path"
-        ],
-        "ovh": [
-            "path"
-        ],
-        "photos": [
             "domain",
             "path"
         ],
