@@ -1,6 +1,10 @@
 {
     "untrusted": {
-        "ml": [
+        "cf": [
+            "path"
+        ],
+        "gallery": [
+            "domain",
             "path"
         ],
         "photos": [
@@ -12,6 +16,9 @@
             "path"
         ],
         "uz": [
+            "path"
+        ],
+        "webcam": [
             "path"
         ],
         "website": [
