@@ -4,6 +4,12 @@
             "domain",
             "path"
         ],
+        "gq": [
+            "path"
+        ],
+        "gy": [
+            "path"
+        ],
         "ml": [
             "path"
         ],
@@ -11,20 +17,6 @@
             "path"
         ],
         "photos": [
-            "domain",
-            "path"
-        ],
-        "tk": [
-            "domain",
-            "path"
-        ],
-        "uz": [
-            "path"
-        ],
-        "webcam": [
-            "path"
-        ],
-        "website": [
             "domain",
             "path"
         ]
