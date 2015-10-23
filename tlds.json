@@ -1,5 +1,15 @@
 {
     "untrusted": {
+        "cf": [
+            "path"
+        ],
+        "gallery": [
+            "domain",
+            "path"
+        ],
+        "ml": [
+            "path"
+        ],
         "ovh": [
             "path"
         ],
