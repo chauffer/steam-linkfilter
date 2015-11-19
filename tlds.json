@@ -1,5 +1,18 @@
 {
     "untrusted": {
+        "cf": [
+            "path"
+        ],
+        "gallery": [
+            "domain",
+            "path"
+        ],
+        "gq": [
+            "path"
+        ],
+        "gy": [
+            "path"
+        ],
         "ml": [
             "path"
         ],
