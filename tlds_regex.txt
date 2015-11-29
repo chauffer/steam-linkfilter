@@ -1,13 +1,10 @@
-# Blocked tlds with path after domain
-.*\.cf\/.*
-.*\.gq\/.*
-.*\.gy\/.*
-.*\.ml\/.*
-.*\.ovh\/.*
-.*\.uz\/.*
-.*\.webcam\/.*
 # Blocked tlds & path
 .*\.gallery(\/.*)?
 .*\.photos(\/.*)?
 .*\.tk(\/.*)?
 .*\.website(\/.*)?
+# Blocked tlds with path after domain
+.*\.gq\/.*
+.*\.ml\/.*
+.*\.uz\/.*
+.*\.webcam\/.*
