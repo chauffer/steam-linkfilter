@@ -2,7 +2,7 @@
 .*\.cf\/.*
 .*\.gq\/.*
 .*\.gy\/.*
-.*\.ovh\/.*
+.*\.ml\/.*
 .*\.uz\/.*
 .*\.webcam\/.*
 # Blocked tlds & path
