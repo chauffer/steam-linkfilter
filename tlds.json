@@ -16,9 +16,6 @@
         "ml": [
             "path"
         ],
-        "ovh": [
-            "path"
-        ],
         "photos": [
             "domain",
             "path"
@@ -28,9 +25,6 @@
             "path"
         ],
         "uz": [
-            "path"
-        ],
-        "webcam": [
             "path"
         ],
         "website": [
