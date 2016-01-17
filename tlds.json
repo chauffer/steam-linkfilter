@@ -7,10 +7,13 @@
             "domain",
             "path"
         ],
+        "gq": [
+            "path"
+        ],
         "gy": [
             "path"
         ],
-        "ovh": [
+        "ml": [
             "path"
         ],
         "photos": [
@@ -19,9 +22,6 @@
         ],
         "tk": [
             "domain",
-            "path"
-        ],
-        "uz": [
             "path"
         ],
         "webcam": [
