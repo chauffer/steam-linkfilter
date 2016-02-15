@@ -32,10 +32,6 @@
         ],
         "webcam": [
             "path"
-        ],
-        "website": [
-            "domain",
-            "path"
         ]
     }
 }
