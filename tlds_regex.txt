@@ -8,5 +8,6 @@
 .*\.webcam\/.*
 # Blocked tlds & path
 .*\.gallery(\/.*)?
+.*\.gp(\/.*)?
 .*\.photos(\/.*)?
 .*\.tk(\/.*)?
