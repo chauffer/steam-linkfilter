@@ -9,6 +9,10 @@
         "ml": [
             "path"
         ],
+        "nf": [
+            "domain",
+            "path"
+        ],
         "ovh": [
             "path"
         ],
