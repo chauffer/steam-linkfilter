@@ -6,5 +6,4 @@
 .*\.uz\/.*
 .*\.webcam\/.*
 # Blocked tlds & path
-.*\.nf(\/.*)?
 .*\.tk(\/.*)?
